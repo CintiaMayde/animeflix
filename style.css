@@ -51,7 +51,7 @@ p {
 } 
 
 .categoria-videos img:hover {
-    opacity: 0.5;
+    opacity: 1.0;
     border: 1px solid green;
 }
 
